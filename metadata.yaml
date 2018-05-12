@@ -1,0 +1,43 @@
+_repo: Tessin-tarina_45509
+_version: 0.1.0
+alternative_title: Tess of the d'Urbervilles. Finnish
+contributor:
+  translator:
+    agent_name: Helve, Uuno
+    gutenberg_agent_id: '43324'
+    url: http://www.gutenberg.org/2009/agents/43324
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: ''
+gutenberg_issued: '2014-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45509'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children of clergy -- Fiction'
+- !lcsh 'Women household employees -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Women murderers -- Fiction'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Rape victims -- Fiction'
+- !lcsh 'Pastoral fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: Tessin tarina
+url: http://www.gutenberg.org/ebooks/45509
